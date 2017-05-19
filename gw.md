@@ -19,7 +19,7 @@ $$ \theta_z = \kappa \Pi^{-1} \frac{g}{R} $$
 
 $$ \frac{N^2}{g} = \frac{\theta_z}{\theta} = \frac{g}{c_p T} $$
 
-$$ \fbox{N^2 = \frac{g^2}{c_p T}} $$
+$$ N^2 = \frac{g^2}{c_p T} $$
 
 Fritts and Alexander 2003 equation 12
 
