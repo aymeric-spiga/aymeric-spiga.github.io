@@ -21,5 +21,5 @@ $$ \frac{N^2}{g} = \frac{\theta_z}{\theta} = \frac{g}{c_p T} $$
 
 Fritts and Alexander 2003 equation 12
 
-$$ \frac{\theta'}{\theta} = \frac{1}{c\e{s}^2} \frac{P'}{\rho} - \frac{\rho'}{\rho} $$
+$$ \frac{\theta'}{\theta} = \frac{1}{c_s^2} \frac{P'}{\rho} - \frac{\rho'}{\rho} $$
 
