@@ -23,6 +23,6 @@ $$ \fbox{N^2 = \frac{g^2}{c_p T}} $$
 
 Fritts and Alexander 2003 equation 12
 
-$$ \frac{\theta'}{\theta} = \frac{1}{c_s^2} \frac{P'}{\rho} - \frac{\rho'}{\rho} $$
+$$ \frac{\theta'}{\overline{\theta}} = \frac{1}{c_s^2} \frac{P'}{\overline{\rho}} - \frac{\rho'}{\overline{\rho}} $$
 
 
