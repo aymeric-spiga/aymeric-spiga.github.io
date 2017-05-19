@@ -25,11 +25,7 @@ Fritts and Alexander 2003 equation 12
 
 $$ \frac{\theta'}{\overline{\theta}} = \frac{1}{c_s^2} \frac{P'}{\overline{\rho}} - \frac{\rho'}{\overline{\rho}} $$
 
-\begin{equation*}
-\frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} =
-1+\frac{e^{-2\pi}} {1+\frac{e^{-4\pi}} {1+\frac{e^{-6\pi}}
-{1+\frac{e^{-8\pi}} {1+\ldots} } } } 
-\end{equation*}
+$$ \frac{1}{\Bigl(\sqrt{\phi \sqrt{5}}-\phi\Bigr) e^{\frac25 \pi}} = 1+\frac{e^{-2\pi}}{1+\frac{e^{-4\pi}}{1+\frac{e^{-6\pi}}{1+\frac{e^{-8\pi}}{1+\ldots} } } } $$
 
 Les forces de pression horizontales se calculent comme la force de pression verticale dans la démonstration de l'équilibre hydrostatique. La force de pression s'exerçant sur une surface $S$ est normale à cette surface et vaut $P \, S$. Pour une parcelle d'air de volume $\delta x \, \delta y \, \delta z$ (figure \ref{fig:pres}), la force de pression totale dans la direction ($Ox$) vaut
 \[ F_P^* = P(x) \, \delta y \, \delta z - P(x+\delta x) \, \delta y \, \delta z = - \frac{\partial P}{\partial x} \, \delta x \, \delta y \, \delta z \]
