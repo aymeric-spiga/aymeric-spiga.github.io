@@ -7,12 +7,5 @@ tags: [test]
 use_math: true
 ---
 
-Let's test some inline math $x$, $y$, $x_1$, $y_1$.
-
-Now a inline math with special character: $|\psi\rangle$, $x'$, $x^\*$.
-
-Test a display math:
-$$
-   |\psi_1\rangle = a|0\rangle + b|1\rangle
-$$
-Is it O.K.?
+Here is an example MathJax inline rendering \\( 1/x^{2} \\), and here is a block rendering: 
+\\[ \frac{1}{n^{2}} \\]
