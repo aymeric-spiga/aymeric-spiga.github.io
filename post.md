@@ -4,7 +4,6 @@ title: "Test math"
 author: Yorgl
 category: misc
 tags: [test]
-show_downloads: true
 mathjax: true
 ---
 
