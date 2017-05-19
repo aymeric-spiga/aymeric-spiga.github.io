@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 title: Aymeric Spiga
 description: Planetary scientist
 markdown: kramdown
+show_downloads: true
