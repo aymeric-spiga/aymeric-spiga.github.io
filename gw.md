@@ -61,5 +61,11 @@ $$ N \ll \hat{\omega} \ll f \qquad \Rightarrow \qquad m = \frac{k_H N}{\hat{\ome
 
 Combine all results
 
-$$ \frac{|\rho'|}{\bar{\rho}} = \frac{|\theta'|}{\bar{\theta}} = \frac{N}{g} (\bar{u}-c) = \frac{\bar{u}-c}{\sqrt{c_p T}} $$
+$$ \frac{|\theta'|}{\bar{\theta}} = \frac{N}{g} (\bar{u}-c) = \frac{\bar{u}-c}{\sqrt{c_p T}} $$
+
+So we conclude that
+
+$$ \frac{|\rho'|}{\bar{\rho}} = \frac{\bar{u}-c}{\sqrt{c_p T}} $$
+
+*Density perturbations induced by gravity waves in an isothermal layer are proportional to wind speed and inversely proportional to T (square root).
 
