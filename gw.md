@@ -67,5 +67,5 @@ So we conclude that
 
 $$ \frac{|\rho'|}{\bar{\rho}} = \frac{\bar{u}-c}{\sqrt{c_p T}} $$
 
-*Density perturbations induced by gravity waves in an isothermal layer are proportional to wind speed and inversely proportional to T (square root).
+*Density perturbations induced by gravity waves in an isothermal layer are proportional to wind speed and inversely proportional to T (square root).*
 
