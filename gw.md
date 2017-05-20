@@ -35,9 +35,19 @@ $$ c_s \rightarrow \infty \qquad \Rightarrow \qquad \frac{\rho'}{\overline{\rho}
 
 ### Saturation
 
-Temperature profile is close to neutral
+Temperature profile is close to neutral. Assume linear formalism and WKB (background state varies slowly over a wave cycle)
 
 $$ \overline{\theta}_z + {\theta'}_z = 0$$ 
+
+Use definition of static stability on the first term
+
+$$ {\theta'}_z = -\frac{N^2 \overline{\theta}}{g} $$
+
+Inject a complex monochromatic Fourier mode
+
+$$ i m \hat{\theta} = -\frac{N^2 \overline{\theta}}{g} $$ 
+
+
 
 
 
