@@ -45,8 +45,11 @@ $$ {\theta'}_z = -\frac{N^2 \overline{\theta}}{g} $$
 
 Inject a complex monochromatic Fourier mode
 
-$$ i m \hat{\theta} = -\frac{N^2 \overline{\theta}}{g} $$ 
+$$ i m \hat{\theta} = -\frac{N^2 \overbar{\theta}}{g} $$ 
 
+Put apart phase considerations
+
+$$ \frac\hat{\theta} = -\frac{N^2 \overline{\theta}}{g} $$ 
 
 
 
