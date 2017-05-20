@@ -27,21 +27,21 @@ $$ N^2 = \frac{g^2}{c_p T} $$
 
 Fritts and Alexander 2003 equation 12
 
-$$ \frac{\theta'}{\overline{\theta}} = \frac{1}{c_s^2} \frac{P'}{\overline{\rho}} - \frac{\rho'}{\overline{\rho}} $$
+$$ \frac{\theta'}{\bar{\theta}} = \frac{1}{c_s^2} \frac{P'}{\bar{\rho}} - \frac{\rho'}{\bar{\rho}} $$
 
 Sound waves are faster; neglect compressibility terms
 
-$$ c_s \rightarrow \infty \qquad \Rightarrow \qquad \frac{\rho'}{\overline{\rho}} = - \frac{\theta'}{\overline{\theta}} $$
+$$ c_s \rightarrow \infty \qquad \Rightarrow \qquad \frac{\rho'}{\bar{\rho}} = - \frac{\theta'}{\bar{\theta}} $$
 
 ### Saturation
 
 Temperature profile is close to neutral. Assume linear formalism and WKB (background state varies slowly over a wave cycle)
 
-$$ \overline{\theta}_z + {\theta'}_z = 0$$ 
+$$ \bar{\theta}_z + {\theta'}_z = 0$$ 
 
 Use definition of static stability on the first term
 
-$$ {\theta'}_z = -\frac{N^2 \overline{\theta}}{g} $$
+$$ {\theta'}_z = -\frac{N^2 \bar{\theta}}{g} $$
 
 Inject a complex monochromatic Fourier mode
 
@@ -49,8 +49,13 @@ $$ i m \hat{\theta} = -\frac{N^2 \bar{\theta}}{g} $$
 
 Put apart phase considerations
 
-$$ \frac\hat{\theta} = -\frac{N^2 \overline{\theta}}{g} $$ 
+$$ \frac{\hat{\theta}}{\bar{\theta}} = -\frac{N^2}{m g} $$ 
 
+### Vertical wavenumber
+
+Assume medium-frequency waves; Fritts and Alexander 2003 equation 32 
+
+$$ N \ll \hat{\omega} \ll f \qquad \Rightarrow \qquad m = \frac{k_H N}{\hat{\omega}} = \frac{N}{\hat{u}-c}$$
 
 
 
