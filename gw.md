@@ -45,11 +45,11 @@ $$ {\theta'}_z = -\frac{N^2 \bar{\theta}}{g} $$
 
 Inject a complex monochromatic Fourier mode
 
-$$ i m \hat{\theta} = -\frac{N^2 \bar{\theta}}{g} $$ 
+$$ i m \theta' = -\frac{N^2 \bar{\theta}}{g} $$ 
 
 Put apart phase considerations
 
-$$ \frac{\hat{\theta}}{\bar{\theta}} = -\frac{N^2}{m g} $$ 
+$$ \frac{\theta'}{\bar{\theta}} = -\frac{N^2}{m g} $$ 
 
 ### Vertical wavenumber
 
