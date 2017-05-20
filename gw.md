@@ -49,13 +49,17 @@ $$ i m \theta' = -\frac{N^2 \bar{\theta}}{g} $$
 
 Put apart phase considerations
 
-$$ \frac{\theta'}{\bar{\theta}} = -\frac{N^2}{m g} $$ 
+$$ \frac{|\theta'|}{\bar{\theta}} = \frac{N^2}{m g} $$ 
 
 ### Vertical wavenumber
 
-Assume medium-frequency waves; Fritts and Alexander 2003 equation 32 
+Assume medium-frequency waves (consider intrinsic frequency); Fritts and Alexander 2003 equation 32
 
-$$ N \ll \hat{\omega} \ll f \qquad \Rightarrow \qquad m = \frac{k_H N}{\hat{\omega}} = \frac{N}{\hat{u}-c}$$
+$$ N \ll \hat{\omega} \ll f \qquad \Rightarrow \qquad m = \frac{k_H N}{\hat{\omega}} = \frac{N}{\bar{u}-c}$$
 
+### Conclusion
 
+Combine all results
+
+$$ \frac{|\rho'|}{\bar{\rho}} = \frac{|\theta'|}{\bar{\theta}} = \frac{N}{g} (\bar{u}-c) = \frac{\bar{u}-c}{\sqrt{c_p T}} $$
 
