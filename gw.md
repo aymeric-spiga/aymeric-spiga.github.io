@@ -3,6 +3,8 @@ layout: default
 mathjax: true
 ---
 
+### Brunt Vaisala
+
 Exner function 
 $$ \Pi  = \left( \frac{P}{P_0} \right)^{\kappa} \qquad \kappa = R/c_p $$
 
@@ -21,11 +23,21 @@ $$ \frac{N^2}{g} = \frac{\theta_z}{\theta} = \frac{g}{c_p T} $$
 
 $$ N^2 = \frac{g^2}{c_p T} $$
 
+### Link between temperature and density perturbations
+
 Fritts and Alexander 2003 equation 12
 
 $$ \frac{\theta'}{\overline{\theta}} = \frac{1}{c_s^2} \frac{P'}{\overline{\rho}} - \frac{\rho'}{\overline{\rho}} $$
 
+Sound waves are faster; neglect compressibility terms
 
-$$ F_P^* = P(x) \, \delta y \, \delta z - P(x+\delta x) \, \delta y \, \delta z = - \frac{\partial P}{\partial x} \, \delta x \, \delta y \, \delta z $$
+$$ c_s \rightarrow \infty \qquad \Rightarrow \qquad \frac{\rho'}{\overline{\rho}} = - \frac{\theta'}{\overline{\theta}} $$
+
+### Saturation
+
+Temperature profile is close to neutral
+
+$$ \overline{\theta}_z + {\theta'}_z = 0$$ 
+
 
 
